@@ -31,3 +31,12 @@
 - Test NG
 - Cucumber & Gharkin
 - Writing and Running Tests
+
+### Prepare
+
+- Top 100 Rest Interview Questions
+
+### Mockoon Setup
+
+- https://mockoon.com/download/
+- Import mocks/config.json

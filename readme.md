@@ -1,0 +1,33 @@
+### Seed
+
+- API Testing (XML, JSON)
+- REST vs SOAP
+- Auth Tokens
+- Postman
+- Test Ng (Writing & Running Test Cases)
+- Cucumber & Gharkin
+
+### Curriculum
+
+- XML
+- JOSN
+- API Basics
+  - Http Status Codes
+  - Verbs,
+  - Auth Methods
+  - JWT
+- SOAP API
+- Rest API
+- Postman
+  - API Testing
+  - Java Script
+  - Environments & Collections
+  - Scripting
+  - Request Manuplation
+  - Resposne Assetions
+  - Response Extraction
+- Maven
+- Java
+- Test NG
+- Cucumber & Gharkin
+- Writing and Running Tests

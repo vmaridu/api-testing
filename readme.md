@@ -40,3 +40,8 @@
 
 - https://mockoon.com/download/
 - Import mocks/config.json
+
+## Useful Links
+
+- https://editor.swagger.io/
+- https://learning.postman.com/docs/tests-and-scripts/write-scripts/test-scripts/

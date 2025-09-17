@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Only Suite" parallel="false">
+    <test name="Cucumber Tests Only">
+        <classes>
+            <class name="org.vm.test.TestRunner"/>
+        </classes>
+    </test>
+</suite>

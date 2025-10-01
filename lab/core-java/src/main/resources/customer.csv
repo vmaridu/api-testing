@@ -1,0 +1,81 @@
+user-id, customer-id, region, currency
+21, CUST001, North America, USD
+22, CUST002, Europe, EUR
+23, CUST003, Asia Pacific, JPY
+24, CUST004, North America, USD
+25, CUST005, Europe, GBP
+26, CUST006, Asia Pacific, AUD
+27, CUST007, North America, CAD
+28, CUST008, Europe, EUR
+29, CUST009, Asia Pacific, CNY
+30, CUST010, North America, USD
+31, CUST011, Europe, EUR
+32, CUST012, Asia Pacific, INR
+33, CUST013, North America, USD
+34, CUST014, Europe, GBP
+35, CUST015, Asia Pacific, JPY
+36, CUST016, North America, CAD
+37, CUST017, Europe, EUR
+38, CUST018, Asia Pacific, AUD
+39, CUST019, North America, USD
+40, CUST020, Europe, EUR
+41, CUST021, Asia Pacific, CNY
+42, CUST022, North America, USD
+43, CUST023, Europe, GBP
+44, CUST024, Asia Pacific, JPY
+45, CUST025, North America, CAD
+46, CUST026, Europe, EUR
+47, CUST027, Asia Pacific, AUD
+48, CUST028, North America, USD
+49, CUST029, Europe, EUR
+50, CUST030, Asia Pacific, INR
+51, CUST031, North America, USD
+52, CUST032, Europe, GBP
+53, CUST033, Asia Pacific, JPY
+54, CUST034, North America, CAD
+55, CUST035, Europe, EUR
+56, CUST036, Asia Pacific, AUD
+57, CUST037, North America, USD
+58, CUST038, Europe, EUR
+59, CUST039, Asia Pacific, CNY
+60, CUST040, North America, USD
+61, CUST041, Europe, GBP
+62, CUST042, Asia Pacific, JPY
+63, CUST043, North America, CAD
+64, CUST044, Europe, EUR
+65, CUST045, Asia Pacific, AUD
+66, CUST046, North America, USD
+67, CUST047, Europe, EUR
+68, CUST048, Asia Pacific, INR
+69, CUST049, North America, USD
+70, CUST050, Europe, GBP
+71, CUST051, Asia Pacific, JPY
+72, CUST052, North America, CAD
+73, CUST053, Europe, EUR
+74, CUST054, Asia Pacific, AUD
+75, CUST055, North America, USD
+76, CUST056, Europe, EUR
+77, CUST057, Asia Pacific, CNY
+78, CUST058, North America, USD
+79, CUST059, Europe, GBP
+80, CUST060, Asia Pacific, JPY
+81, CUST061, North America, CAD
+82, CUST062, Europe, EUR
+83, CUST063, Asia Pacific, AUD
+84, CUST064, North America, USD
+85, CUST065, Europe, EUR
+86, CUST066, Asia Pacific, INR
+87, CUST067, North America, USD
+88, CUST068, Europe, GBP
+89, CUST069, Asia Pacific, JPY
+90, CUST070, North America, CAD
+91, CUST071, Europe, EUR
+92, CUST072, Asia Pacific, AUD
+93, CUST073, North America, USD
+94, CUST074, Europe, EUR
+95, CUST075, Asia Pacific, CNY
+96, CUST076, North America, USD
+97, CUST077, Europe, GBP
+98, CUST078, Asia Pacific, JPY
+99, CUST079, North America, CAD
+100, CUST080, Europe, EUR

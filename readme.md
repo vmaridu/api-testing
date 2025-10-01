@@ -13,10 +13,9 @@
 - JOSN
 - API Basics
   - Http Status Codes
-  - Verbs,
+  - Verbs
   - Auth Methods
   - JWT
-- SOAP API
 - Rest API
 - Postman
   - API Testing
@@ -28,7 +27,6 @@
   - Response Extraction
 - Maven
 - Java
-- Test NG
 - Cucumber & Gharkin
 - Writing and Running Tests
 
